@@ -1,21 +1,21 @@
 # **Discrimination of essential oils exposed and non-exposed to gamma rays using Raman spectroscopy and machine learning**
 
-### **Authors:** *Paul Vargas Jentzsch (a), Sebasti·n Sarasti Zambonino (a), Daniela Ramirez (a), Gonzalo J·come Camacho (a), Marco Sinche Serra (a), Edwin Vera (b), Roque Santos(a), Luis Ramos Guerrero (c), Valerian Ciobota (d)
+### **Authors:** *Paul Vargas Jentzsch (a), Sebasti√°n Sarasti Zambonino (a), Daniela Ramirez (a), Gonzalo J√°come Camacho (a), Marco Sinche Serra (a), Edwin Vera (b), Roque Santos(a), Luis Ramos Guerrero (c), Valerian Ciobota (d)
 
-### **Repository created by:** **Sebasti·n Sarasti Zambonino**
+### **Repository created by:** **Sebasti√°n Sarasti Zambonino**
 ### **Data owner:** **Paul Vargas Jentzsch**
 
 ### **Institutions:**
-a) Departamento de Ciencias Nucleares, Facultad de IngenierÌa
-QuÌmica y Agroindustria, Escuela PolitÈcnica Nacional,
-LadrÛn de Guevara E11-253, 170525 Quito, Ecuador
+a) Departamento de Ciencias Nucleares, Facultad de Ingenier√≠a
+Qu√≠mica y Agroindustria, Escuela Polit√©cnica Nacional,
+Ladr√≥n de Guevara E11-253, 170525 Quito, Ecuador
 
-b) Departamento de Ciencias de Alimentos y BiotecnologÌa, Facultad de IngenierÌa
-QuÌmica y Agroindustria, Escuela PolitÈcnica Nacional,
-LadrÛn de Guevara E11-253, 170525 Quito, Ecuador
+b) Departamento de Ciencias de Alimentos y Biotecnolog√≠a, Facultad de Ingenier√≠a
+Qu√≠mica y Agroindustria, Escuela Polit√©cnica Nacional,
+Ladr√≥n de Guevara E11-253, 170525 Quito, Ecuador
 
-c) Centro de InvestigaciÛn de Alimentos, CIAL, Universidad UTE, 
-Av. Mariscal Sucre y Mariana de Jes˙s, 170527 Quito, Ecuador
+c) Centro de Investigaci√≥n de Alimentos, CIAL, Universidad UTE, 
+Av. Mariscal Sucre y Mariana de Jes√∫s, 170527 Quito, Ecuador
 
 d) Rigaku Analytical Devices, Inc.,
 30 Upton Drive, Suite 2
@@ -37,13 +37,13 @@ In each folder there is several Raman spectra collected for different samples.
 
 It is the average spectra calculated for each sample according to the dose and irradiation stage.
 
-# Jupyter notebooks
+### Jupyter notebooks
 
 There are three notebooks which are focused in the data engineering, modeling, and model evaluation. 
 
 ## Nomenclature used in the data
 
-The essencial oils come from chilca and muÒa. For label the files it was used the following structure.
+The essencial oils come from chilca and mu√±a. For label the files it was used the following structure.
 
 MI = Irradiated raw material (It means that the plant material was first irradiated and then the oil was extracted)
 
@@ -55,7 +55,7 @@ The "calibration" folder contains the spectra that simply served as verification
 
 SD - standard deviation
 Av - average
-third letter m - MuÒa
+third letter m - Mu√±a
 third letter c - Chilca
 forth letter m - MI Materia Prima
 forth letter a  - AI Aceite Irradiada
