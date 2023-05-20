@@ -1,0 +1,16 @@
+Los aceites esenciales estudiados son de chilca y de muña.
+
+MI = Materia Prima Irradiada (Quiere decir que primero se irradió el material vegetal y luego se extrajo el aceite)
+
+AI = Aceite Irradiado (Quiere decir que se extrajo el aceite y luego este se irradió)
+
+Los números indican la dosis de irradiación en kGy.
+
+La carpeta de "calibración" contiene los espectros que simplemente servían de verificación de que el equipo estaba calibrado.
+
+SD - standard deviation
+Av - average
+third letter m - Muna
+third letter c - Chilca
+forth letter m - MI Materia Prima
+forth letter a  - AI Aceite Irradiada
